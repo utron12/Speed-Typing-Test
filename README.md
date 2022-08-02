@@ -1,4 +1,4 @@
-# Speed-Typing-Test
+# Typing-Speed-Test
 A python based typing speed test program using the libraries pandas, numpy, time and matplotlib.
 
 A typing test interface which will take the timed inputs form the user according to his choice of precision and generate a final report for his performance among all other candidates through graph and percentile.
